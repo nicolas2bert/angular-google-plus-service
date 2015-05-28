@@ -35,4 +35,4 @@ var app = angular.module("app", []);
 ```
 
 
-#### 4) Enjoy your Google Plus API
+##### 4) Enjoy your Google Plus API
